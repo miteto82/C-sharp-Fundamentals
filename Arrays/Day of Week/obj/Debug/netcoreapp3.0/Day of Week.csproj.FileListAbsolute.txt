@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Arrays\Day of Week\bin\Debug\netcoreapp3.0\Day of Week.exe
+C:\Users\User\source\repos\Arrays\Day of Week\bin\Debug\netcoreapp3.0\Day of Week.deps.json
+C:\Users\User\source\repos\Arrays\Day of Week\bin\Debug\netcoreapp3.0\Day of Week.runtimeconfig.json
+C:\Users\User\source\repos\Arrays\Day of Week\bin\Debug\netcoreapp3.0\Day of Week.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays\Day of Week\bin\Debug\netcoreapp3.0\Day of Week.dll
+C:\Users\User\source\repos\Arrays\Day of Week\bin\Debug\netcoreapp3.0\Day of Week.pdb
+C:\Users\User\source\repos\Arrays\Day of Week\obj\Debug\netcoreapp3.0\Day of Week.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Arrays\Day of Week\obj\Debug\netcoreapp3.0\Day of Week.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays\Day of Week\obj\Debug\netcoreapp3.0\Day of Week.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays\Day of Week\obj\Debug\netcoreapp3.0\Day of Week.dll
+C:\Users\User\source\repos\Arrays\Day of Week\obj\Debug\netcoreapp3.0\Day of Week.pdb

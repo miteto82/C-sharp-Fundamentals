@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Arrays\Common Elements\bin\Debug\netcoreapp3.0\Common Elements.exe
+C:\Users\User\source\repos\Arrays\Common Elements\bin\Debug\netcoreapp3.0\Common Elements.deps.json
+C:\Users\User\source\repos\Arrays\Common Elements\bin\Debug\netcoreapp3.0\Common Elements.runtimeconfig.json
+C:\Users\User\source\repos\Arrays\Common Elements\bin\Debug\netcoreapp3.0\Common Elements.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays\Common Elements\bin\Debug\netcoreapp3.0\Common Elements.dll
+C:\Users\User\source\repos\Arrays\Common Elements\bin\Debug\netcoreapp3.0\Common Elements.pdb
+C:\Users\User\source\repos\Arrays\Common Elements\obj\Debug\netcoreapp3.0\Common Elements.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays\Common Elements\obj\Debug\netcoreapp3.0\Common Elements.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays\Common Elements\obj\Debug\netcoreapp3.0\Common Elements.dll
+C:\Users\User\source\repos\Arrays\Common Elements\obj\Debug\netcoreapp3.0\Common Elements.pdb
+C:\Users\User\source\repos\Arrays\Common Elements\obj\Debug\netcoreapp3.0\Common Elements.csprojAssemblyReference.cache
