@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Company Users\bin\Debug\netcoreapp3.0\Company Users.exe
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Company Users\bin\Debug\netcoreapp3.0\Company Users.deps.json
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Company Users\bin\Debug\netcoreapp3.0\Company Users.runtimeconfig.json
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Company Users\bin\Debug\netcoreapp3.0\Company Users.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Company Users\bin\Debug\netcoreapp3.0\Company Users.dll
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Company Users\bin\Debug\netcoreapp3.0\Company Users.pdb
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Company Users\obj\Debug\netcoreapp3.0\Company Users.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Company Users\obj\Debug\netcoreapp3.0\Company Users.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Company Users\obj\Debug\netcoreapp3.0\Company Users.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Company Users\obj\Debug\netcoreapp3.0\Company Users.dll
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Company Users\obj\Debug\netcoreapp3.0\Company Users.pdb

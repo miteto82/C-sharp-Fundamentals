@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Word Synonyms\bin\Debug\netcoreapp3.0\Word Synonyms.exe
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Word Synonyms\bin\Debug\netcoreapp3.0\Word Synonyms.deps.json
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Word Synonyms\bin\Debug\netcoreapp3.0\Word Synonyms.runtimeconfig.json
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Word Synonyms\bin\Debug\netcoreapp3.0\Word Synonyms.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Word Synonyms\bin\Debug\netcoreapp3.0\Word Synonyms.dll
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Word Synonyms\bin\Debug\netcoreapp3.0\Word Synonyms.pdb
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Word Synonyms\obj\Debug\netcoreapp3.0\Word Synonyms.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Word Synonyms\obj\Debug\netcoreapp3.0\Word Synonyms.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Word Synonyms\obj\Debug\netcoreapp3.0\Word Synonyms.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Word Synonyms\obj\Debug\netcoreapp3.0\Word Synonyms.dll
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Word Synonyms\obj\Debug\netcoreapp3.0\Word Synonyms.pdb

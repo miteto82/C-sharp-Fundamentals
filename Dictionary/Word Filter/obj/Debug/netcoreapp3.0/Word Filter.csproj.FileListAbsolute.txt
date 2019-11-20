@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Word Filter\bin\Debug\netcoreapp3.0\Word Filter.exe
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Word Filter\bin\Debug\netcoreapp3.0\Word Filter.deps.json
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Word Filter\bin\Debug\netcoreapp3.0\Word Filter.runtimeconfig.json
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Word Filter\bin\Debug\netcoreapp3.0\Word Filter.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Word Filter\bin\Debug\netcoreapp3.0\Word Filter.dll
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Word Filter\bin\Debug\netcoreapp3.0\Word Filter.pdb
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Word Filter\obj\Debug\netcoreapp3.0\Word Filter.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Word Filter\obj\Debug\netcoreapp3.0\Word Filter.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Word Filter\obj\Debug\netcoreapp3.0\Word Filter.dll
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Word Filter\obj\Debug\netcoreapp3.0\Word Filter.pdb

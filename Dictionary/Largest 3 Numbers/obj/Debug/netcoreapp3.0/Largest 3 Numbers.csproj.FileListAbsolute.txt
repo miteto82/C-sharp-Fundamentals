@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Largest 3 Numbers\bin\Debug\netcoreapp3.0\Largest 3 Numbers.exe
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Largest 3 Numbers\bin\Debug\netcoreapp3.0\Largest 3 Numbers.deps.json
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Largest 3 Numbers\bin\Debug\netcoreapp3.0\Largest 3 Numbers.runtimeconfig.json
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Largest 3 Numbers\bin\Debug\netcoreapp3.0\Largest 3 Numbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Largest 3 Numbers\bin\Debug\netcoreapp3.0\Largest 3 Numbers.dll
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Largest 3 Numbers\bin\Debug\netcoreapp3.0\Largest 3 Numbers.pdb
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Largest 3 Numbers\obj\Debug\netcoreapp3.0\Largest 3 Numbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Largest 3 Numbers\obj\Debug\netcoreapp3.0\Largest 3 Numbers.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Largest 3 Numbers\obj\Debug\netcoreapp3.0\Largest 3 Numbers.dll
+C:\Users\User\source\repos\Arrays and Lists\Dictionary\Largest 3 Numbers\obj\Debug\netcoreapp3.0\Largest 3 Numbers.pdb
